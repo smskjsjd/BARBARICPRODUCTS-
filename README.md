@@ -1,3 +1,2 @@
-# BARBARICPRODUCTS-
-HTTP API:
-7875072959:AAE5H-SToHmsi3OmjcSA2mmTmWGRsVuDrEY
+git init
+git remote add origin https://github.com/BARBARICPRODUCTS/YOUR_REPO.git
